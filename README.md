@@ -1,16 +1,12 @@
-<p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Banner tecnológico de Benjamin Osses" />
-</p>
-
-<h1 align="center">Hola, soy Benjamin 👋</h1>
+<h1 align="center">Hola, soy Benjamin</h1>
 
 <p align="center">
   <strong>Estudiante de Ingeniería en Informática · Desarrollador Full Stack</strong>
 </p>
 
 <p align="center">
-  Transformo necesidades reales en productos digitales claros, útiles y escalables.<br/>
-  Desde Chile 🇨🇱, construyendo tecnología para empresas, educación y servicios.
+  Soy estudiante de Ingeniería en Informática y me gusta aprender creando proyectos.<br/>
+  Actualmente desarrollo páginas web y sistemas para empresas.
 </p>
 
 <p align="center">
@@ -39,24 +35,24 @@ Me interesa desarrollar software que llegue a producción y genere un impacto co
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐾 VitalPet · VitalSystem</h3>
+      <h3>◇ VitalPet · VitalSystem</h3>
       <p>Sistema integral de gestión veterinaria con roles y seguridad, punto de venta, caja, inventario y operación entre sucursales.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Python</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📅 Calendario escolar</h3>
+      <h3>◇ Calendario escolar</h3>
       <p>Plataforma para Redland School que organiza actividades, evaluaciones, cursos, reportes y usuarios de sus tres secciones.</p>
       <p><code>React</code> <code>FastAPI</code> <code>MongoDB</code> <code>Tailwind CSS</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🩺 Sistemas para empresas</h3>
+      <h3>◇ Sistemas para empresas</h3>
       <p>Soluciones a medida como gestión clínica veterinaria, agendas, fichas de pacientes, recetas PDF y paneles administrativos.</p>
       <p><code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>MongoDB</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Experiencias web</h3>
+      <h3>◇ Experiencias web</h3>
       <p>Sitios modernos y responsivos para empresas, comercios y emprendimientos, desde la identidad visual hasta la implementación.</p>
       <p><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>React</code></p>
     </td>
@@ -67,13 +63,6 @@ Me interesa desarrollar software que llegue a producción y genere un impacto co
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,python,nodejs,html,css,fastapi,mongodb,git&perline=10" alt="React, TypeScript, JavaScript, Python, Node.js, HTML, CSS, FastAPI, MongoDB y Git" />
-</p>
-
-### Actividad en GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Benyaaki&show_icons=true&hide_border=true&theme=transparent&title_color=22D3EE&icon_color=8B5CF6&text_color=94A3B8&locale=es" alt="Estadísticas de GitHub de Benjamin" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benyaaki&layout=compact&hide_border=true&theme=transparent&title_color=22D3EE&text_color=94A3B8&locale=es" alt="Lenguajes más utilizados" />
 </p>
 
 ---
